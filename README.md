@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sundar-c) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csundar2004@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-303030?logo=firefox-browser&logoColor=white)](https://sundar-online.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-303030?logo=firefox-browser&logoColor=white)](https://sundar-online.netlify.app/)
 
 
 
