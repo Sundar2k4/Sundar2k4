@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on real-time full-stack projects that solve everyday problems using the MERN stack.<br>🌱 I’m currently learning advanced backend concepts, system design, and improving my React skills.<br>👯 I’m looking to collaborate on open-source web apps and productivity tools.<br>🤔 I’m looking for help with optimizing backend performance and deployment best practices.<br><br>💬 I love discussing full-stack development, current technologies , and building practical tech solutions.<br>😄 Pronouns: Techie!<br>⚡ Fun fact: I love turning small ideas into useful apps and exploring how code can simplify daily life!
+🔭 I’m currently working on real-time full-stack projects that solve everyday problems using the MERN stack.<br>🌱 I’m currently learning advanced backend concepts, system design, and improving my React skills.<br>👯 I’m looking to collaborate on open-source web apps and productivity tools.<br>🤔 I’m looking for help with optimizing backend performance and deployment best practices.<br>💬 I love discussing full-stack development, current technologies , and building practical tech solutions.<br>😄 Pronouns: Techie!<br>⚡ Fun fact: I love turning small ideas into useful apps and exploring how code can simplify daily life!
 
 
 ## 🌐 Socials:
