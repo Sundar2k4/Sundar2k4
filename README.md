@@ -21,7 +21,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Sundar2k4&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sundar2k4&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar2k4&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
